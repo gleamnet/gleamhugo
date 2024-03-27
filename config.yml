@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://gleamhugo.netlify.app/"
 languageCode: en-us
 title: Alexander
 theme: PaperMod
