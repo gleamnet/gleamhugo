@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Getting on Demo for Hugo</title>
+    <link>//localhost:1313/tags/getting/</link>
+    <description>Recent content in Getting on Demo for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2024 17:01:18 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/getting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Tue, 26 Mar 2024 17:01:18 +0300</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>Getting Started With Hugo PaperMod A fast, clean, responsive Hugo theme Author: Aditya Telange GitHub Stars: 8407 Updated: 2024-03-16 License: MIT Tags: Blog Dark Light Minimal Responsive Install Theme</description>
+    </item>
+  </channel>
+</rss>
